@@ -13,10 +13,10 @@ This Angular project is a simple cafe ordering system with **user authentication
 2. **Menu Page:** Displays a variety of food items for selection.
 3. **Order Summary (Dashboard):** Shows the logged-in username and the total cost.
 
-![Login](./assests/login.jpg)
-![Menu](./assests/menu.jpg)
-![Dashboard](./assests/dashboard.jpg)
-![Home](./assests/home.jpg)
+![Login](./assets/login.jpg)
+![Menu](./assets/menu.jpg)
+![Dashboard](./assets/dashboard.jpg)
+![Home](./assets/home.jpg)
 
 
 
